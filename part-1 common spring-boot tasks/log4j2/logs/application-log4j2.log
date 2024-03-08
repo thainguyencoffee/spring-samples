@@ -1,0 +1,32 @@
+2024-02-25 01:25:16.230 [DEBUG] [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-02-25 01:25:16.248 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-02-25 01:25:16.270 [DEBUG] [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-02-25 01:25:16.318 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:25:16.342 [ INFO] [           main] c.b.Application                          : Started Application in 1.067 seconds (process running for 1.746)
+2024-02-25 01:25:16.345 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration
+2024-03-08 23:29:43.531 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 15260 (D:\Studyspace\spring-boot\spring-samples\part-1 common spring-boot tasks\log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\spring-samples\part-1 common spring-boot tasks\log4j2)
+2024-03-08 23:29:43.540 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-03-08 23:29:44.554 [ INFO] [           main] o.a.c.c.AprLifecycleListener             : Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+2024-03-08 23:29:44.571 [ INFO] [           main] o.a.c.c.AprLifecycleListener             : OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+2024-03-08 23:29:44.578 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-03-08 23:29:44.580 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-03-08 23:29:44.580 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-08 23:29:44.634 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-03-08 23:29:44.809 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2024-03-08 23:29:44.868 [DEBUG] [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-03-08 23:29:44.889 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-03-08 23:29:44.914 [DEBUG] [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-03-08 23:29:44.962 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-03-08 23:29:44.991 [ INFO] [           main] c.b.Application                          : Started Application in 1.865 seconds (process running for 2.847)
+2024-03-08 23:29:44.994 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration
+2024-03-08 23:30:19.043 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 13020 (D:\Studyspace\spring-boot\spring-samples\part-1 common spring-boot tasks\log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\spring-samples\part-1 common spring-boot tasks\log4j2)
+2024-03-08 23:30:19.050 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-03-08 23:30:19.600 [ INFO] [           main] o.a.c.c.AprLifecycleListener             : Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+2024-03-08 23:30:19.604 [ INFO] [           main] o.a.c.c.AprLifecycleListener             : OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+2024-03-08 23:30:19.609 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-03-08 23:30:19.610 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-03-08 23:30:19.610 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-08 23:30:19.655 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-03-08 23:30:19.880 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-03-08 23:30:19.897 [ INFO] [           main] c.b.Application                          : Started Application in 1.103 seconds (process running for 1.951)
+2024-03-08 23:30:19.900 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration

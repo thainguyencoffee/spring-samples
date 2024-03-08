@@ -1,0 +1,1 @@
+org.springframework.context.ApplicationListener=com.manning.sbip.ch01.ApplicationStartingEventListener

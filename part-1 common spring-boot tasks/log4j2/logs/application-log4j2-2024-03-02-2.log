@@ -1,0 +1,52 @@
+2024-02-25 01:23:22.498 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 7852 (D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2)
+2024-02-25 01:23:22.507 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-02-25 01:23:23.055 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:23:23.056 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-25 01:23:23.057 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 01:23:23.085 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-25 01:23:23.191 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2024-02-25 01:23:23.225 [DEBUG] [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-02-25 01:23:23.242 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-02-25 01:23:23.271 [DEBUG] [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-02-25 01:23:23.329 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:23:23.361 [ INFO] [           main] c.b.Application                          : Started Application in 1.097 seconds (process running for 1.743)
+2024-02-25 01:23:23.364 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration
+2024-02-25 01:23:34.321 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 25024 (D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2)
+2024-02-25 01:23:34.326 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-02-25 01:23:34.867 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:23:34.868 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-25 01:23:34.868 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 01:23:34.906 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-25 01:23:35.008 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2024-02-25 01:23:35.045 [DEBUG] [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-02-25 01:23:35.064 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-02-25 01:23:35.090 [DEBUG] [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-02-25 01:23:35.145 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:23:35.172 [ INFO] [           main] c.b.Application                          : Started Application in 1.084 seconds (process running for 1.766)
+2024-02-25 01:23:35.175 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration
+2024-02-25 01:24:26.315 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 18692 (D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2)
+2024-02-25 01:24:26.320 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-02-25 01:24:26.884 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:24:26.886 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-25 01:24:26.887 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 01:24:26.920 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-25 01:24:27.036 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2024-02-25 01:24:27.072 [DEBUG] [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-02-25 01:24:27.088 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-02-25 01:24:27.109 [DEBUG] [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-02-25 01:24:27.151 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:24:27.177 [ INFO] [           main] c.b.Application                          : Started Application in 1.106 seconds (process running for 1.764)
+2024-02-25 01:24:27.180 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration
+2024-02-25 01:24:40.730 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 15000 (D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2)
+2024-02-25 01:24:40.737 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-02-25 01:24:41.282 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:24:41.284 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-25 01:24:41.284 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 01:24:41.323 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-25 01:24:41.423 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2024-02-25 01:24:41.460 [DEBUG] [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-02-25 01:24:41.477 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-02-25 01:24:41.498 [DEBUG] [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-02-25 01:24:41.539 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:24:41.565 [ INFO] [           main] c.b.Application                          : Started Application in 1.071 seconds (process running for 1.73)
+2024-02-25 01:24:41.567 [ INFO] [           main] c.b.Application                          : CourseTrackerApplication started successfully with Log4j2 configuration

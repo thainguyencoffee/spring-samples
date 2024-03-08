@@ -1,0 +1,16 @@
+2024-02-25T00:19:32.195+07:00  INFO 20080 --- [restartedMain] com.booting.Application                  : Starting Application using Java 21.0.2 with PID 20080 (D:\Studyspace\spring-boot\exercises\ch02-logging-pattern-configuration\target\classes started by nguye in D:\Studyspace\spring-boot\exercises\ch02-logging-pattern-configuration)
+2024-02-25T00:19:32.215+07:00  INFO 20080 --- [restartedMain] com.booting.Application                  : No active profile set, falling back to 1 default profile: "default"
+2024-02-25T00:19:32.250+07:00  INFO 20080 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-25T00:19:32.251+07:00  INFO 20080 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-25T00:19:33.008+07:00  INFO 20080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-02-25T00:19:33.016+07:00  INFO 20080 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-25T00:19:33.016+07:00  INFO 20080 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25T00:19:33.055+07:00  INFO 20080 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-25T00:19:33.056+07:00  INFO 20080 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 804 ms
+2024-02-25T00:19:33.490+07:00  INFO 20080 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-25T00:19:33.494+07:00  INFO 20080 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-25T00:19:33.549+07:00  INFO 20080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-02-25T00:19:33.558+07:00  INFO 20080 --- [restartedMain] com.booting.Application                  : Started Application in 1.64 seconds (process running for 2.127)
+2024-02-25T00:19:34.129+07:00  INFO 20080 --- [RMI TCP Connection(1)-172.29.192.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-25T00:19:34.129+07:00  INFO 20080 --- [RMI TCP Connection(1)-172.29.192.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-25T00:19:34.130+07:00  INFO 20080 --- [RMI TCP Connection(1)-172.29.192.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

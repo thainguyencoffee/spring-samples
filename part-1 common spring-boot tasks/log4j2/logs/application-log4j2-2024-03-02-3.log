@@ -1,0 +1,7 @@
+2024-02-25 01:25:15.508 [ INFO] [           main] c.b.Application                          : Starting Application using Java 21.0.2 with PID 15884 (D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2\target\classes started by nguye in D:\Studyspace\spring-boot\exercises\ch02\ch02-log4j2)
+2024-02-25 01:25:15.516 [ INFO] [           main] c.b.Application                          : No active profile set, falling back to 1 default profile: "default"
+2024-02-25 01:25:16.054 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 01:25:16.055 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-25 01:25:16.056 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 01:25:16.085 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-25 01:25:16.196 [DEBUG] [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
